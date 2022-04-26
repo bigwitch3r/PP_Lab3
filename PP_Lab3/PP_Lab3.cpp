@@ -10,5 +10,5 @@ using namespace std;
 
 int main(int* argc, char** argv)
 {
-    task_three(argc, argv);
+	task_three(argc, argv);
 }
