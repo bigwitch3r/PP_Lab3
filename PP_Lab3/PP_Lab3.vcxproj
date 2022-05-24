@@ -142,17 +142,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ind_task.cpp" />
     <ClCompile Include="PP_Lab3.cpp" />
+    <ClCompile Include="Task6.cpp" />
     <ClCompile Include="Task_1.cpp" />
     <ClCompile Include="Task_2.cpp" />
     <ClCompile Include="Task_3.cpp" />
     <ClCompile Include="Task_4.cpp" />
+    <ClCompile Include="Task_7.cpp" />
+    <ClCompile Include="Task_8.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ind_task.h" />
     <ClInclude Include="Task_1.h" />
     <ClInclude Include="Task_2.h" />
     <ClInclude Include="Task_3.h" />
     <ClInclude Include="Task_4.h" />
+    <ClInclude Include="Task_6.h" />
+    <ClInclude Include="Task_7.h" />
+    <ClInclude Include="Task_8.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
